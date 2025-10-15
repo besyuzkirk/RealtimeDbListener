@@ -1,0 +1,61 @@
+# Rider
+.idea/
+*.sln.iml
+*.DotSettings.user
+.idea/.idea.RealtimeDbListener/.idea
+
+# Build
+bin/
+obj/
+out/
+publish/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.dbmdl
+*.bak
+*.log
+*.pdb
+*.cache
+*.ncb
+*.opendb
+*.pidb
+*.svclog
+*.userprefs
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+Logs/
+log/
+*.tlog
+
+# User-specific
+*.swp
+*.swo
+*~
+*.tmp
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# Others
+.env
+node_modules/
+dist/
+coverage/
+wwwroot/
